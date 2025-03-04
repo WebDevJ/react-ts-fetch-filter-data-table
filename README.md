@@ -1,3 +1,9 @@
+React + TypeScript : Fetch & Filter Data in a Table
+**Component Features** 
+-- Displays data dynamically in a table
+-- Filters data using a search bar that updates as you type
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
