@@ -1,4 +1,4 @@
-React + TypeScript : Fetch & Filter Data in a Table  
+## React + TypeScript : Fetch & Filter Data in a Table  
 **Component Features**  
 - Displays data dynamically in a table
 - Filters data using a search bar that updates as you type
